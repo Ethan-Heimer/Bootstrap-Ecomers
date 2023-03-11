@@ -1,0 +1,15 @@
+.Box{
+    background-color: aquamarine;
+}
+
+.Card-Img{
+    height: 16rem;
+}
+
+.Card-Body{
+    height: 9rem;
+}
+
+.Card-Text{
+    white-space: nowrap;
+}
